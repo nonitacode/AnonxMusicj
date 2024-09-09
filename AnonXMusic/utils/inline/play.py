@@ -61,15 +61,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
 		[
          InlineKeyboardButton(
-		 text="🕸️ ᴛᴧᴘ тᴏ sᴇᴇ ᴍᴧɢɪᴄ 🕸️", url=f"https://t.me/+qYRBJgZsARpkNWJl?startgroup=true"
+		 text="🕸️ ᴛᴧᴘ тᴏ sᴇᴇ ᴍᴧɢɪᴄ 🕸️", url=f"https://t.me/+HzGQKfT01p4yYTE1"
 	 ),
         ],
         [
          InlineKeyboardButton(
-                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/GANGSTER_BOTZ"
+                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/FZ4EZONE4EVER"
             ),
             InlineKeyboardButton(
-                text="🍁𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥🍃", url=f"https://t.me/PROFESSOR_77X"
+                text="🍁𝚨υⴕι𝛅𝛕𝛊ᴄ🍃", url=f"https://t.me/teralover7"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -81,10 +81,10 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/GANGSTER_BOTZ"
+                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/FZ4EZONE4EVER"
             ),
             InlineKeyboardButton(
-                text="🍁𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥🍃", url=f"https://t.me/PROFESSOR_77X"
+                text="🍁𝚨υⴕι𝛅𝛕𝛊ᴄ🍃", url=f"https://t.me/teralover7"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
